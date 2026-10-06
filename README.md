@@ -92,7 +92,7 @@ padding:20px;
 <h1>Gabriela Judith Gutiérrez González</h1>
  
 <p>
-Especialista en Atención al Cliente, Soporte Telefónico y Gestión de Reservaciones Aéreas
+Especialista en Atención al Cliente, Soporte Telefónico, Gestión de Reservaciones Aéreas y programación.
 </p>
  
 #experienciaExperiencia</a>
@@ -106,7 +106,7 @@ Especialista en Atención al Cliente, Soporte Telefónico y Gestión de Reservac
 <h2>Sobre mí</h2>
  
 <div class="card">
-Profesional con experiencia en atención al cliente, soporte operativo, ventas y administración. Capacitada en sistemas de reservaciones aéreas como Amadeus y Travelport-Galileo, enfocada en brindar soluciones eficientes y una excelente experiencia al cliente.
+Profesional con experiencia en atención al cliente, soporte operativo, ventas y administración. Capacitada en sistemas de reservaciones aéreas como Amadeus y Travelport-Galileo, enfocada en brindar soluciones eficientes y una excelente experiencia al cliente, Además de cercificaciones en equipos de seguridad Honeywell receptoras Decripta & PIMA con software WinSamm en monitoreo de Alarmas.
 </div>
  
 </section>
@@ -122,6 +122,8 @@ Profesional con experiencia en atención al cliente, soporte operativo, ventas y
 <li>Gestión de reservaciones y cambios de vuelo.</li>
 <li>Atención telefónica y resolución de incidencias.</li>
 <li>Uso de Amadeus y Travelport-Galileo.</li>
+<li>Uso de WinSamm y Receptoras.</li>
+<li>Uso de Microsoft office y más.</li>
 <li>Ventas y servicio al cliente.</li>
 </ul>
 </div>
@@ -190,11 +192,11 @@ Amadeus • Travelport Galileo • Atención al Cliente • Ventas y Soporte
  
 <div class="card">
  
-<p><strong>Email:</strong> tucorreo@ejemplo.com</p>
+<p><strong>Email:</strong> gabyomalis@gmail.com</p>
  
-<p><strong>LinkedIn:</strong> Agrega tu perfil</p>
+<p><strong>LinkedIn:</strong> @gabyomali</p>
  
-<p><strong>WhatsApp:</strong> Agrega tu número</p>
+<p><strong>WhatsApp:</strong> +201090705089</p>
  
 </div>
  
